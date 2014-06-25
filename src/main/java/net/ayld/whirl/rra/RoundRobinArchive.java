@@ -10,7 +10,6 @@ public interface RoundRobinArchive {
 
     void increment();
     void decrement();
-    void size();
 
     void getSum(Period period);
 }
