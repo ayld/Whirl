@@ -1,4 +1,4 @@
 Whirl
 =====
 
-A simple minimalistic Round Robin Archive implementation
+A simple minimalistic Round Robin Archive implementation.
