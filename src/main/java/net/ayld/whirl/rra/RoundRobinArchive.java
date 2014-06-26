@@ -11,5 +11,5 @@ public interface RoundRobinArchive {
     void increment();
     void decrement();
 
-    void getSum(Period period);
+    long getValue(Period period);
 }
